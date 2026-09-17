@@ -1,0 +1,25 @@
+{
+  "$description": "Elevation and glow shadows.",
+  "shadow": {
+    "elevation-xs": {
+      "$type": "shadow",
+      "$value": "0 1px 2px 0 #11110f0f"
+    },
+    "elevation-sm": {
+      "$type": "shadow",
+      "$value": "0 4px 8px 0 #0000000d"
+    },
+    "elevation-md": {
+      "$type": "shadow",
+      "$value": "0 8px 24px 0 #11110f14"
+    },
+    "elevation-lg": {
+      "$type": "shadow",
+      "$value": "0 16px 40px 0 #11110f1a"
+    },
+    "glow-brand": {
+      "$type": "shadow",
+      "$value": "0 2px 16px 0 #f3670433"
+    }
+  }
+}
