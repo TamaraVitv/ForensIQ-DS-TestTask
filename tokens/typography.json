@@ -1,0 +1,231 @@
+{
+  "$description": "Type families, weights, sizes, line heights and letter spacing.",
+  "font": {
+    "family": {
+      "sans": {
+        "$type": "dimension",
+        "$value": "{font-family.inter}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/family/sans"
+          }
+        }
+      },
+      "mono": {
+        "$type": "dimension",
+        "$value": "{font-family.ibm-plex-mono}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/family/mono"
+          }
+        }
+      }
+    },
+    "weight": {
+      "regular": {
+        "$type": "dimension",
+        "$value": "{font-weight.regular}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/weight/regular"
+          }
+        }
+      },
+      "medium": {
+        "$type": "dimension",
+        "$value": "{font-weight.medium}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/weight/medium"
+          }
+        }
+      },
+      "semibold": {
+        "$type": "dimension",
+        "$value": "{font-weight.semibold}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/weight/semibold"
+          }
+        }
+      }
+    },
+    "size": {
+      "h1": {
+        "$type": "dimension",
+        "$value": "{font-size.64}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/size/h1"
+          }
+        }
+      },
+      "h2": {
+        "$type": "dimension",
+        "$value": "{font-size.40}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/size/h2"
+          }
+        }
+      },
+      "h3": {
+        "$type": "dimension",
+        "$value": "{font-size.24}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/size/h3"
+          }
+        }
+      },
+      "h4": {
+        "$type": "dimension",
+        "$value": "{font-size.18}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/size/h4"
+          }
+        }
+      },
+      "body-lg": {
+        "$type": "dimension",
+        "$value": "{font-size.18}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/size/body-lg"
+          }
+        }
+      },
+      "body-md": {
+        "$type": "dimension",
+        "$value": "{font-size.16}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/size/body-md"
+          }
+        }
+      },
+      "body-sm": {
+        "$type": "dimension",
+        "$value": "{font-size.14}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/size/body-sm"
+          }
+        }
+      },
+      "caption": {
+        "$type": "dimension",
+        "$value": "{font-size.12}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/size/caption"
+          }
+        }
+      },
+      "label": {
+        "$type": "dimension",
+        "$value": "{font-size.12}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/size/label"
+          }
+        }
+      },
+      "button-sm": {
+        "$type": "dimension",
+        "$value": "{font-size.12}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/size/button-sm"
+          }
+        }
+      },
+      "button-md": {
+        "$type": "dimension",
+        "$value": "{font-size.16}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/size/button-md"
+          }
+        }
+      }
+    },
+    "line-height": {
+      "h3": {
+        "$type": "dimension",
+        "$value": "{line-height.32}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/line-height/h3"
+          }
+        }
+      },
+      "h4": {
+        "$type": "dimension",
+        "$value": "{line-height.25}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/line-height/h4"
+          }
+        }
+      },
+      "body-lg": {
+        "$type": "dimension",
+        "$value": "{line-height.30}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/line-height/body-lg"
+          }
+        }
+      },
+      "body-md": {
+        "$type": "dimension",
+        "$value": "{line-height.28}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/line-height/body-md"
+          }
+        }
+      },
+      "body-sm": {
+        "$type": "dimension",
+        "$value": "{line-height.20}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/line-height/body-sm"
+          }
+        }
+      },
+      "caption": {
+        "$type": "dimension",
+        "$value": "{line-height.18}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/line-height/caption"
+          }
+        }
+      }
+    },
+    "letter-spacing": {
+      "normal": {
+        "$type": "dimension",
+        "$value": "{letter-spacing.0}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/letter-spacing/normal"
+          }
+        }
+      },
+      "wide": {
+        "$type": "dimension",
+        "$value": "{letter-spacing.1-1}",
+        "$extensions": {
+          "com.figma": {
+            "name": "font/letter-spacing/wide"
+          }
+        }
+      }
+    }
+  }
+}
