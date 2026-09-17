@@ -1,0 +1,419 @@
+{
+  "$description": "Spacing scale, radii, border widths and control/icon sizing.",
+  "spacing": {
+    "0": {
+      "$type": "dimension",
+      "$value": "{space.0}",
+      "$extensions": {
+        "com.figma": {
+          "name": "spacing/0"
+        }
+      }
+    },
+    "2": {
+      "$type": "dimension",
+      "$value": "{space.2}",
+      "$extensions": {
+        "com.figma": {
+          "name": "spacing/2"
+        }
+      }
+    },
+    "4": {
+      "$type": "dimension",
+      "$value": "{space.4}",
+      "$extensions": {
+        "com.figma": {
+          "name": "spacing/4"
+        }
+      }
+    },
+    "6": {
+      "$type": "dimension",
+      "$value": "{space.6}",
+      "$extensions": {
+        "com.figma": {
+          "name": "spacing/6"
+        }
+      }
+    },
+    "8": {
+      "$type": "dimension",
+      "$value": "{space.8}",
+      "$extensions": {
+        "com.figma": {
+          "name": "spacing/8"
+        }
+      }
+    },
+    "10": {
+      "$type": "dimension",
+      "$value": "{space.10}",
+      "$extensions": {
+        "com.figma": {
+          "name": "spacing/10"
+        }
+      }
+    },
+    "12": {
+      "$type": "dimension",
+      "$value": "{space.12}",
+      "$extensions": {
+        "com.figma": {
+          "name": "spacing/12"
+        }
+      }
+    },
+    "16": {
+      "$type": "dimension",
+      "$value": "{space.16}",
+      "$extensions": {
+        "com.figma": {
+          "name": "spacing/16"
+        }
+      }
+    },
+    "20": {
+      "$type": "dimension",
+      "$value": "{space.20}",
+      "$extensions": {
+        "com.figma": {
+          "name": "spacing/20"
+        }
+      }
+    },
+    "24": {
+      "$type": "dimension",
+      "$value": "{space.24}",
+      "$extensions": {
+        "com.figma": {
+          "name": "spacing/24"
+        }
+      }
+    },
+    "32": {
+      "$type": "dimension",
+      "$value": "{space.32}",
+      "$extensions": {
+        "com.figma": {
+          "name": "spacing/32"
+        }
+      }
+    },
+    "40": {
+      "$type": "dimension",
+      "$value": "{space.40}",
+      "$extensions": {
+        "com.figma": {
+          "name": "spacing/40"
+        }
+      }
+    },
+    "48": {
+      "$type": "dimension",
+      "$value": "{space.48}",
+      "$extensions": {
+        "com.figma": {
+          "name": "spacing/48"
+        }
+      }
+    },
+    "64": {
+      "$type": "dimension",
+      "$value": "{space.64}",
+      "$extensions": {
+        "com.figma": {
+          "name": "spacing/64"
+        }
+      }
+    },
+    "80": {
+      "$type": "dimension",
+      "$value": "{space.80}",
+      "$extensions": {
+        "com.figma": {
+          "name": "spacing/80"
+        }
+      }
+    },
+    "96": {
+      "$type": "dimension",
+      "$value": "{space.96}",
+      "$extensions": {
+        "com.figma": {
+          "name": "spacing/96"
+        }
+      }
+    },
+    "128": {
+      "$type": "dimension",
+      "$value": "{space.128}",
+      "$extensions": {
+        "com.figma": {
+          "name": "spacing/128"
+        }
+      }
+    },
+    "160": {
+      "$type": "dimension",
+      "$value": "{space.160}",
+      "$extensions": {
+        "com.figma": {
+          "name": "spacing/160"
+        }
+      }
+    },
+    "card": {
+      "gap": {
+        "$type": "dimension",
+        "$value": "{space.12}",
+        "$extensions": {
+          "com.figma": {
+            "name": "spacing/card/gap"
+          }
+        }
+      },
+      "padding": {
+        "$type": "dimension",
+        "$value": "{space.24}",
+        "$extensions": {
+          "com.figma": {
+            "name": "spacing/card/padding"
+          }
+        }
+      }
+    },
+    "control": {
+      "gap": {
+        "$type": "dimension",
+        "$value": "{space.8}",
+        "$extensions": {
+          "com.figma": {
+            "name": "spacing/control/gap"
+          }
+        }
+      },
+      "padding-x-md": {
+        "$type": "dimension",
+        "$value": "{space.16}",
+        "$extensions": {
+          "com.figma": {
+            "name": "spacing/control/padding-x-md"
+          }
+        }
+      },
+      "padding-x-sm": {
+        "$type": "dimension",
+        "$value": "{space.12}",
+        "$extensions": {
+          "com.figma": {
+            "name": "spacing/control/padding-x-sm"
+          }
+        }
+      },
+      "padding-y-md": {
+        "$type": "dimension",
+        "$value": "{space.10}",
+        "$extensions": {
+          "com.figma": {
+            "name": "spacing/control/padding-y-md"
+          }
+        }
+      },
+      "padding-y-sm": {
+        "$type": "dimension",
+        "$value": "{space.6}",
+        "$extensions": {
+          "com.figma": {
+            "name": "spacing/control/padding-y-sm"
+          }
+        }
+      }
+    },
+    "layout": {
+      "gutter": {
+        "$type": "dimension",
+        "$value": "{space.32}",
+        "$extensions": {
+          "com.figma": {
+            "name": "spacing/layout/gutter"
+          }
+        }
+      }
+    },
+    "section": {
+      "gap": {
+        "$type": "dimension",
+        "$value": "{space.48}",
+        "$extensions": {
+          "com.figma": {
+            "name": "spacing/section/gap"
+          }
+        }
+      },
+      "padding-x": {
+        "$type": "dimension",
+        "$value": "{space.96}",
+        "$extensions": {
+          "com.figma": {
+            "name": "spacing/section/padding-x"
+          }
+        }
+      },
+      "padding-y": {
+        "$type": "dimension",
+        "$value": "{space.96}",
+        "$extensions": {
+          "com.figma": {
+            "name": "spacing/section/padding-y"
+          }
+        }
+      }
+    }
+  },
+  "radius": {
+    "none": {
+      "$type": "dimension",
+      "$value": "{radius.0}",
+      "$extensions": {
+        "com.figma": {
+          "name": "radius/none"
+        }
+      }
+    },
+    "xs": {
+      "$type": "dimension",
+      "$value": "{radius.2}",
+      "$extensions": {
+        "com.figma": {
+          "name": "radius/xs"
+        }
+      }
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "{radius.4}",
+      "$extensions": {
+        "com.figma": {
+          "name": "radius/sm"
+        }
+      }
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "{radius.5}",
+      "$extensions": {
+        "com.figma": {
+          "name": "radius/md"
+        }
+      }
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "{radius.8}",
+      "$extensions": {
+        "com.figma": {
+          "name": "radius/lg"
+        }
+      }
+    },
+    "full": {
+      "$type": "dimension",
+      "$value": "{radius.full}",
+      "$extensions": {
+        "com.figma": {
+          "name": "radius/full"
+        }
+      }
+    }
+  },
+  "border-width": {
+    "hairline": {
+      "$type": "dimension",
+      "$value": "{border.0-5}",
+      "$extensions": {
+        "com.figma": {
+          "name": "border-width/hairline"
+        }
+      }
+    },
+    "default": {
+      "$type": "dimension",
+      "$value": "{border.1}",
+      "$extensions": {
+        "com.figma": {
+          "name": "border-width/default"
+        }
+      }
+    },
+    "strong": {
+      "$type": "dimension",
+      "$value": "{border.2}",
+      "$extensions": {
+        "com.figma": {
+          "name": "border-width/strong"
+        }
+      }
+    }
+  },
+  "size": {
+    "control": {
+      "sm": {
+        "$type": "dimension",
+        "$value": "{space.32}",
+        "$extensions": {
+          "com.figma": {
+            "name": "size/control/sm"
+          }
+        }
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": "{space.40}",
+        "$extensions": {
+          "com.figma": {
+            "name": "size/control/md"
+          }
+        }
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": "{space.48}",
+        "$extensions": {
+          "com.figma": {
+            "name": "size/control/lg"
+          }
+        }
+      }
+    },
+    "icon": {
+      "sm": {
+        "$type": "dimension",
+        "$value": "{space.16}",
+        "$extensions": {
+          "com.figma": {
+            "name": "size/icon/sm"
+          }
+        }
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": "{space.20}",
+        "$extensions": {
+          "com.figma": {
+            "name": "size/icon/md"
+          }
+        }
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": "{space.24}",
+        "$extensions": {
+          "com.figma": {
+            "name": "size/icon/lg"
+          }
+        }
+      }
+    }
+  }
+}
