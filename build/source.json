@@ -1,0 +1,75 @@
+{
+  "_comment": "Raw export from Figma (file xGgxvE8ek2RhP7QsPxSDTR, page 'Landing V2'). Regenerate with the Figma MCP export script; do not hand-edit.",
+  "primitives": [
+    "border/0-5=0.5","border/1=1","border/2=2",
+    "font-family/ibm-plex-mono=IBM Plex Mono","font-family/inter=Inter",
+    "font-size/12=12","font-size/14=14","font-size/16=16","font-size/18=18","font-size/20=20","font-size/24=24","font-size/30=30","font-size/40=40","font-size/64=64",
+    "font-weight/medium=Medium","font-weight/regular=Regular","font-weight/semibold=Semi Bold",
+    "grey/06=#11110f","grey/11=#1c1c1a","grey/22=#3a3a34","grey/33=#55554e","grey/50=#7f7f75","grey/55=#8c8c84","grey/65=#a8a9a1","grey/76=#c2c2bc","grey/83=#d6d6d1","grey/85=#dcdcd7","grey/89=#e4e4df","grey/91=#eaeae8","grey/95=#f4f4f3","grey/97=#f7f7f5","grey/100=#ffffff",
+    "ink/alpha-20=#12121233","ink/alpha-50=#12121280","ink/alpha-70=#121212b2","white/alpha-20=#ffffff33",
+    "letter-spacing/0=0","letter-spacing/1-1=1.1",
+    "lime/25=#3a4a12","lime/60=#b4cb52","lime/65=#b7e63b","lime/75=#d9ef71",
+    "line-height/12=12","line-height/18=18","line-height/20=20","line-height/25=25","line-height/26=26","line-height/28=28","line-height/30=30","line-height/32=32","line-height/41=41",
+    "olive/25=#38402a","olive/45=#6e7a45","olive/55=#8a9467","olive/65=#9ca575","olive/70=#a9b088","olive/76=#c8cdb5","olive/78=#d6dac7","olive/80=#dadcc9","olive/85=#dfe3ce",
+    "orange/20=#4a2102","orange/50=#f36704","orange/55=#ff5a00","orange/60=#ff6a00","orange/92=#fde3d0","orange/97=#fef4ec",
+    "radius/0=0","radius/2=2","radius/4=4","radius/5=5","radius/8=8","radius/full=999",
+    "red/20=#3d1410","red/50=#c03a2b","red/97=#fdf6f5",
+    "space/0=0","space/2=2","space/4=4","space/6=6","space/8=8","space/10=10","space/12=12","space/16=16","space/20=20","space/24=24","space/32=32","space/40=40","space/48=48","space/64=64","space/80=80","space/96=96","space/128=128","space/160=160"
+  ],
+  "color": [
+    "action/accent/default|olive/65|olive/65","action/accent/hover|olive/55|olive/70","action/accent/text|grey/06|grey/06",
+    "action/brand/default|orange/50|orange/50","action/brand/hover|orange/55|orange/60","action/brand/pressed|orange/60|orange/60","action/brand/text|grey/100|grey/06",
+    "action/disabled/default|grey/91|grey/22","action/disabled/text|grey/65|grey/50",
+    "action/primary/default|grey/06|grey/100","action/primary/hover|grey/22|grey/85","action/primary/text|grey/100|grey/06",
+    "action/secondary/default|grey/100|grey/22","action/secondary/hover|grey/95|grey/33","action/secondary/text|grey/06|grey/95",
+    "bg/emphasis|grey/11|grey/06","bg/hover|grey/97|grey/22","bg/inverse|grey/06|grey/100","bg/muted|grey/91|grey/22","bg/page|grey/100|grey/06","bg/subtle|grey/95|grey/11",
+    "border/accent|olive/55|olive/70","border/brand|orange/50|orange/55","border/default|grey/85|grey/33","border/faint|grey/95|grey/11","border/focus|orange/50|orange/55","border/inverse|grey/06|grey/100","border/on-inverse|grey/100|grey/06","border/strong|grey/65|grey/50","border/subtle|grey/91|grey/22",
+    "divider/default|grey/83|grey/33","divider/strong|grey/65|grey/50","divider/subtle|grey/89|grey/22",
+    "feedback/danger/bg|red/97|red/20","feedback/danger/fg|red/50|red/50",
+    "feedback/highlight/bg|lime/65|lime/65","feedback/highlight/fg|grey/06|grey/06",
+    "feedback/success/bg|olive/85|olive/25","feedback/success/fg|olive/45|lime/60",
+    "overlay/hairline|ink/alpha-20|white/alpha-20","overlay/scrim|ink/alpha-70|ink/alpha-70","overlay/scrim-soft|ink/alpha-50|ink/alpha-50",
+    "surface/accent-subtle|olive/85|olive/25","surface/brand-subtle|orange/97|orange/20","surface/default|grey/100|grey/11","surface/raised|grey/97|grey/22","surface/subtle|grey/95|grey/11",
+    "text/accent|olive/45|olive/70","text/body|grey/22|grey/85","text/brand|orange/50|orange/55","text/danger|red/50|red/50","text/disabled|grey/65|grey/33","text/inverse|grey/100|grey/06","text/primary|grey/06|grey/95","text/secondary|grey/33|grey/65","text/tertiary|grey/50|grey/55"
+  ],
+  "spacing": [
+    "spacing/0|space/0","spacing/2|space/2","spacing/4|space/4","spacing/6|space/6","spacing/8|space/8","spacing/10|space/10","spacing/12|space/12","spacing/16|space/16","spacing/20|space/20","spacing/24|space/24","spacing/32|space/32","spacing/40|space/40","spacing/48|space/48","spacing/64|space/64","spacing/80|space/80","spacing/96|space/96","spacing/128|space/128","spacing/160|space/160",
+    "spacing/card/gap|space/12","spacing/card/padding|space/24",
+    "spacing/control/gap|space/8","spacing/control/padding-x-md|space/16","spacing/control/padding-x-sm|space/12","spacing/control/padding-y-md|space/10","spacing/control/padding-y-sm|space/6",
+    "spacing/layout/gutter|space/32","spacing/section/gap|space/48","spacing/section/padding-x|space/96","spacing/section/padding-y|space/96",
+    "radius/none|radius/0","radius/xs|radius/2","radius/sm|radius/4","radius/md|radius/5","radius/lg|radius/8","radius/full|radius/full",
+    "border-width/hairline|border/0-5","border-width/default|border/1","border-width/strong|border/2",
+    "size/control/sm|space/32","size/control/md|space/40","size/control/lg|space/48",
+    "size/icon/sm|space/16","size/icon/md|space/20","size/icon/lg|space/24"
+  ],
+  "typography": [
+    "font/family/sans|font-family/inter","font/family/mono|font-family/ibm-plex-mono",
+    "font/weight/regular|font-weight/regular","font/weight/medium|font-weight/medium","font/weight/semibold|font-weight/semibold",
+    "font/size/h1|font-size/64","font/size/h2|font-size/40","font/size/h3|font-size/24","font/size/h4|font-size/18",
+    "font/size/body-lg|font-size/18","font/size/body-md|font-size/16","font/size/body-sm|font-size/14",
+    "font/size/caption|font-size/12","font/size/label|font-size/12","font/size/button-sm|font-size/12","font/size/button-md|font-size/16",
+    "font/line-height/h3|line-height/32","font/line-height/h4|line-height/25","font/line-height/body-lg|line-height/30","font/line-height/body-md|line-height/28","font/line-height/body-sm|line-height/20","font/line-height/caption|line-height/18",
+    "font/letter-spacing/normal|letter-spacing/0","font/letter-spacing/wide|letter-spacing/1-1"
+  ],
+  "textStyles": [
+    {"name":"H/H1","css":"heading-1","family":"sans","weight":"medium","size":"h1","lineHeight":null,"letterSpacing":"normal","textCase":"none"},
+    {"name":"H/H2","css":"heading-2","family":"sans","weight":"medium","size":"h2","lineHeight":null,"letterSpacing":"normal","textCase":"none"},
+    {"name":"H/H3","css":"heading-3","family":"sans","weight":"medium","size":"h3","lineHeight":"h3","letterSpacing":"normal","textCase":"none"},
+    {"name":"H/H4","css":"heading-4","family":"sans","weight":"medium","size":"h4","lineHeight":"h4","letterSpacing":"normal","textCase":"none"},
+    {"name":"P/P1","css":"body-lg","family":"sans","weight":"regular","size":"body-lg","lineHeight":"body-lg","letterSpacing":"normal","textCase":"none"},
+    {"name":"P/P2","css":"body-md","family":"sans","weight":"regular","size":"body-md","lineHeight":"body-md","letterSpacing":"normal","textCase":"none"},
+    {"name":"14 R","css":"body-sm","family":"sans","weight":"regular","size":"body-sm","lineHeight":"body-sm","letterSpacing":"normal","textCase":"none"},
+    {"name":"P/12 R","css":"caption","family":"sans","weight":"regular","size":"caption","lineHeight":"caption","letterSpacing":"normal","textCase":"none"},
+    {"name":"P/Label","css":"label","family":"mono","weight":"regular","size":"label","lineHeight":null,"letterSpacing":"wide","textCase":"uppercase"},
+    {"name":"P/12 M","css":"label-strong","family":"mono","weight":"medium","size":"label","lineHeight":null,"letterSpacing":"wide","textCase":"uppercase"},
+    {"name":"Button/12 M","css":"button-sm","family":"mono","weight":"medium","size":"button-sm","lineHeight":null,"letterSpacing":"wide","textCase":"uppercase"},
+    {"name":"Button/16 M","css":"button-md","family":"mono","weight":"medium","size":"button-md","lineHeight":null,"letterSpacing":"wide","textCase":"uppercase"}
+  ],
+  "shadows": [
+    {"name":"elevation-xs","value":"0 1px 2px 0 #11110f0f"},
+    {"name":"elevation-sm","value":"0 4px 8px 0 #0000000d"},
+    {"name":"elevation-md","value":"0 8px 24px 0 #11110f14"},
+    {"name":"elevation-lg","value":"0 16px 40px 0 #11110f1a"},
+    {"name":"glow-brand","value":"0 2px 16px 0 #f3670433"}
+  ]
+}
