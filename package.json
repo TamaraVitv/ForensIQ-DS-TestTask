@@ -1,0 +1,22 @@
+{
+  "name": "@forensiq/design-system",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Design tokens for the ForensIQ product, generated from Figma.",
+  "type": "module",
+  "files": ["dist", "tokens"],
+  "exports": {
+    "./tokens.css": "./dist/tokens.css",
+    "./tokens": "./dist/tokens.ts",
+    "./tailwind": "./dist/tailwind.preset.js",
+    "./tokens/*": "./tokens/*"
+  },
+  "scripts": {
+    "build": "node build/build.mjs",
+    "validate": "node build/validate.mjs",
+    "docs": "node build/docs.mjs",
+    "test": "npm run build && npm run validate"
+  },
+  "keywords": ["design-tokens", "design-system", "figma", "dtcg"],
+  "license": "UNLICENSED"
+}
